@@ -1,0 +1,28 @@
+{
+  "title": "Noah's Calculus Tutor",
+  "description": "A website about Noah's Calculus Tutor, providing calculus tutoring and educational resources.",
+  "domain": "creepers.cloud",
+  "subdomain": "About-Noahs-Calculus-Tutor",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/Ayantuffboi",
+    "email": "ayan6-4@outlook.com",
+    "discord": "optional"
+  },
+  "record": {
+    "spare_record": [
+      "none",
+      "CNAME",
+      "About-Noahs-Calculus-Tutor.creepers.cloud",
+      "ayantuffboi.github.io"
+    ],
+    "A": [],
+    "AAAA": [],
+    "CNAME": "ayantuffboi.github.io",
+    "MX": [],
+    "NS": [],
+    "TXT": [],
+    "SRV": []
+  },
+  "proxy": "false"
+}
